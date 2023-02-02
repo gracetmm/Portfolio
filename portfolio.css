@@ -1,0 +1,182 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    background-color: #FFF7A7;
+}
+
+.nav {
+    font-family: 'Caveat', cursive;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #BFA785;
+    font-size: 25px;
+    color: white;
+}
+
+.name {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+li {
+
+    width: 33.33%;
+    float: left;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 150px;
+    text-decoration: none;
+}
+
+li a: hover {
+    background-color: #BFA785;
+    opacity: 0.2;
+}
+
+.nav {
+    font-family: 'Caveat', cursive;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #BFA785;
+    font-size: 25px;
+    color: white;
+}
+
+.name {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+li {
+
+    width: 33.33%;
+    float: left;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 150px;
+    text-decoration: none;
+}
+
+li a: hover {
+    background-color: #BFA785;
+    opacity: 0.2;
+}
+
+.column {
+    float: left;
+    width: 100%;
+    padding: 15px;
+}
+
+.columns {
+    float: left;
+    width: 50%;
+    padding: 15px;
+}
+
+.pictures {
+    float: right;
+    width: -150%;
+    padding: 75px;
+}
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    font-family: 'Dancing Script', cursive;
+}
+
+/* submit button */
+input[type=submit] {
+    background-color: #dab5ff;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Dancing Script', cursive;
+}
+
+h1, {
+    font-family: 'Dancing Script', cursive;
+    color: #dab5ff;
+    text-align: center;
+    text-shadow: 0px 0px 2px;
+}
+
+h3 {
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-size: 25px;
+}
+
+body {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 100;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #0000;
+    padding: 20px;
+}
+
+p {
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Caveat', cursive;
+
+}
+
+.too {
+    
+}
+
+.allow {
+    
+}
+
+img {
+    display: inline-block;
+}

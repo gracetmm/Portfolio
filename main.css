@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    background-color: #FFF7A7;
+}
+
+.nav {
+    font-family: 'Caveat', cursive;
+    background-color: #BFA785;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #BFA785;
+    font-size: 25px;
+    color: white;
+}
+
+.name {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+li {
+
+    width: 33.33%;
+    float: left;
+}
+
+
+li a {
+    display: block;
+    background-color: #BFA785;
+    text-align: center;
+    padding: 16px 150px;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+    color: white;
+}
+
+li a: hover {
+    background-color: #BFA785;
+    opacity: 0.2;
+}
+
+.aboutme {
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.aboutmebio {
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    line-height: 1;
+}
